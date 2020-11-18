@@ -5,7 +5,7 @@
 
 Olá , bem-vindo ao meu Github 👋
 
-Atualmente estou estudando sobre Kernel Mode e Assembly x86 🙇                                    
+Atualmente estou estudando sobre Kernel Mode e Assembly x64 🙇                                    
 
 Programação por hobbie 🙏
 
