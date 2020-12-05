@@ -20,4 +20,4 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB1te)](https://github.com/anuraghazra/github-readme-stats)     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Alt Text](https://media1.tenor.com/images/0e8f2d40175a4856bd55b93f0d579589/tenor.gif)
+![Alt Text](https://pa1.narvii.com/7455/fa4eec4452ed146d1f920206e65f5875e4afd1afr1-540-229_hq.gif)
