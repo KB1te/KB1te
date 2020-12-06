@@ -1,4 +1,4 @@
-![](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)       ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat)
+![](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png)![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat) ![](https://komarev.com/ghpvc/?username=KB1te)
 
 
 
@@ -21,3 +21,4 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 
 
 ![Alt Text](https://pa1.narvii.com/7455/fa4eec4452ed146d1f920206e65f5875e4afd1afr1-540-229_hq.gif)
+
