@@ -15,7 +15,7 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te&show_icons=true&theme=dracula)
 
-
-![Alt Text](https://pa1.narvii.com/7455/fa4eec4452ed146d1f920206e65f5875e4afd1afr1-540-229_hq.gif) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te&show_icons=true&theme=dracula)
+![Alt Text](https://pa1.narvii.com/7455/fa4eec4452ed146d1f920206e65f5875e4afd1afr1-540-229_hq.gif) 
 
