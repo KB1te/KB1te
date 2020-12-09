@@ -1,4 +1,4 @@
-![](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png) ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat) ![](https://komarev.com/ghpvc/?username=KB1te)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/170px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png) ![](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png) ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat) ![](https://komarev.com/ghpvc/?username=KB1te) 
 
 
 
