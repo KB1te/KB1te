@@ -12,9 +12,15 @@ Atualmente estou estudando sobre o WindowsNT , Assembly x64 e RE 🙇
 
 ![](https://media1.tenor.com/images/86031337405fc540c2b56af57206ff6c/tenor.gif?itemid=8556865)
 
+***
+
 Programação por hobbie 🙏
 
+***
+
 Apenas me interesso por C/C++ , _Assembly_ e _Reverse Engineering_ 
+
+***
 
 Eu odeio:
 
