@@ -23,6 +23,13 @@ Eu odeio:
 - [x] Golang
 - [x] Tudo que não seja C/C++ ou Assembly
 
+```
+Projetos futuros
+```
+
++ PatchGuard Bypass
++ Rootkit
++ Bootkit
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te&show_icons=true&theme=dracula)
 
