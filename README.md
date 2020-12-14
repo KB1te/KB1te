@@ -10,7 +10,7 @@ Atualmente estou estudando sobre o WindowsNT , Assembly x64 e RE 🙇
 
 Programação por hobbie 🙏
 
-Apenas me interesso por C/C++ , Assembly e Reverse Engineering 
+Apenas me interesso por C/C++ , _Assembly_ e _Reverse Engineering_ 
 
 Eu odeio:
 
