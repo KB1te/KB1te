@@ -2,9 +2,9 @@
 
 
 
-![https://1.bp.blogspot.com/-MgqMsOpR3eQ/Xk9zdKwbNwI/AAAAAAABy38/MEfL83rfAt0-5b100wC8ckVLjGf8sw3tgCKgBGAsYHg/s1600/Rikei%2Bga%2BKoi%2Bni%2BOchita%2Bno%2Bde%2BShoumei%2Bshitemita%2B-%2BEpisode%2B6%2B-%2BAyame%2B1.8X%2BMore%2BBeautiful.gif] Olá , bem-vindo ao meu Github 👋
+![](https://1.bp.blogspot.com/-MgqMsOpR3eQ/Xk9zdKwbNwI/AAAAAAABy38/MEfL83rfAt0-5b100wC8ckVLjGf8sw3tgCKgBGAsYHg/s1600/Rikei%2Bga%2BKoi%2Bni%2BOchita%2Bno%2Bde%2BShoumei%2Bshitemita%2B-%2BEpisode%2B6%2B-%2BAyame%2B1.8X%2BMore%2BBeautiful.gif) Olá , bem-vindo ao meu Github 👋
 
-Atualmente estou estudando sobre o WindowsNT , Assembly x64 e RE 🙇 ![https://i.pinimg.com/originals/df/d3/ab/dfd3ab568b72ddb2e4f118df5165790a.gif]
+Atualmente estou estudando sobre o WindowsNT , Assembly x64 e RE 🙇 ![](https://i.pinimg.com/originals/df/d3/ab/dfd3ab568b72ddb2e4f118df5165790a.gif)
 
 Programação por hobbie 🙏
 
