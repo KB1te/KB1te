@@ -4,7 +4,7 @@
 
 Olá , bem-vindo ao meu Github 👋 
 
-Atualmente estou estudando sobre o WindowsNT , Assembly x64 e RE 🙇 ![](https://i.pinimg.com/originals/df/d3/ab/dfd3ab568b72ddb2e4f118df5165790a.gif)
+Atualmente estou estudando sobre o WindowsNT , Assembly x64 e RE 🙇 ![](https://media1.tenor.com/images/86031337405fc540c2b56af57206ff6c/tenor.gif?itemid=8556865)
 
 Programação por hobbie 🙏
 
