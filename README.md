@@ -42,5 +42,5 @@ Futuros projetos
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te&show_icons=true&theme=dracula)
 
-![Alt Text](https://thumbs.gfycat.com/AromaticAdeptIvorybilledwoodpecker-small.gif) 
+![Alt Text](https://cutewallpaper.org/21/sasuke-sharingan-gif/Animated-gif-about-gif-in-Sasuke-Uchiha-by-siil.gif) 
 
