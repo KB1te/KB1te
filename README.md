@@ -27,7 +27,7 @@ Eu odeio:
 - [x] Javascript
 - [x] Rust
 - [x] Golang
-- [x] Tudo que não seja C/C++ ou Assembly
+- [x] Python
 
 ```
 Futuros projetos
