@@ -1,4 +1,4 @@
-![](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png) ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat)
+![](https://image.prntscr.com/image/iTPbR52KSeuoZMnSijBZDw.png) ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat)
 
 
 
