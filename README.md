@@ -33,10 +33,7 @@ Eu odeio:
 Futuros projetos
 ```
 
-+ PatchGuard Bypass
-+ Rootkit
-+ Bootkit
-+ Diferentes tipos de hooking
++ Surprise!
 
 ***
 
