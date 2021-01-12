@@ -26,7 +26,7 @@ Eu odeio:
 
 - [x] Javascript
 - [x] Rust
-- [x] Golang
+- [x] Haskell
 - [x] Python
 
 ```
