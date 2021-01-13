@@ -23,8 +23,6 @@ Atualmente estou estudando sobre o Windows NT , Assembly x64 e RE 🙇
 
 Apenas me interesso por C/C++ , _Assembly_ e _Reverse Engineering_ 
 
-***
-
 Não me interesso por:
 
 - [x] Javascript
