@@ -4,8 +4,8 @@
 
 Olá , bem-vindo ao meu Github 👋 
 
-*Na minha angústia, clamei ao Senhor; clamei ao meu Deus. Do seu templo ele ouviu a minha voz; o meu grito de socorro chegou aos seus ouvidos*
--2 Samuel 22:7
+*"Na minha angústia, clamei ao Senhor; clamei ao meu Deus. Do seu templo ele ouviu a minha voz; o meu grito de socorro chegou aos seus ouvidos"*
+
 
 ```
 Sobre mim
