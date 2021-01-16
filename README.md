@@ -6,10 +6,6 @@ Olá , bem-vindo ao meu Github 👋
 
 *"Na minha angústia, clamei ao Senhor; clamei ao meu Deus. Do seu templo ele ouviu a minha voz; o meu grito de socorro chegou aos seus ouvidos"*
 
-
-```
-Sobre mim
-```
 Jovem programador futuro engenheiro da computação , se Deus quiser ( alguém guarda uma vaga ai pra mim 🙏 ) 
 
 ![](http://infantv.com.br/infantv/wp-content/uploads/2016/07/fghfgjghrwer.jpg)
