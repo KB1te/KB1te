@@ -42,5 +42,6 @@ Futuros projetos
 ***
 
 
-![Alt Text](https://cutewallpaper.org/21/sasuke-sharingan-gif/Animated-gif-about-gif-in-Sasuke-Uchiha-by-siil.gif) 
+![](https://yasm.tortall.net/banner.png) ![](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+
 
