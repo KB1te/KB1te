@@ -42,6 +42,6 @@ Futuros projetos
 ***
 
 
-![](https://yasm.tortall.net/banner.png) ![](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) ![](https://yasm.tortall.net/banner.png) 
 
 
