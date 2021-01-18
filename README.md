@@ -24,9 +24,9 @@ Apenas me interesso por C/C++ , _Assembly_ e _Reverse Engineering_
 
 Não me interesso por:
 
-- [x] Javascript
+- [x] WebApp
 - [x] Rust
-- [x] Haskell
+- [x] Programação funcional
 - [x] Python
 
 ```
