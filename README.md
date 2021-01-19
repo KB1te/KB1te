@@ -20,7 +20,7 @@ Atualmente estou estudando sobre o Windows NT , Assembly x64 e RE 🙇
 
 ***
 
-Apenas me interesso por C/C++ , _Assembly_ e _Reverse Engineering_ 
+Apenas me interesso por C/C++ , _Assembly_ , _Reverse Engineering, IoT e hardware_ 
 
 Não me interesso por:
 
