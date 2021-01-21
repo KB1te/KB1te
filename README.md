@@ -30,10 +30,6 @@ Não me interesso por:
 - [x] Python
 
 ```
-Futuros projetos
-```
-
-+ Surprise!
 
 ***
 
