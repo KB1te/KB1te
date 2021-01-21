@@ -28,8 +28,7 @@ Não me interesso por:
 - [x] Rust
 - [x] Programação funcional
 - [x] Python
-
-```
+***
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) ![](https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_and_wordmark_-_2012_%28dark_blue%29.png) ![](https://yasm.tortall.net/banner.png)
 
