@@ -9,7 +9,7 @@ Olá , bem-vindo ao meu Github 👋
 Jovem programador futuro engenheiro da computação , se Deus quiser ( alguém guarda uma vaga ai pra mim 🙏 ) 
 
 
-<img src="https://media1.tenor.com/images/86031337405fc540c2b56af57206ff6c/tenor.gif?itemid=8556865" align="left">
+<img src="https://media1.tenor.com/images/86031337405fc540c2b56af57206ff6c/tenor.gif?itemid=8556865" width="200px" heigth="200px" align="left">
 
 ```
 Atualmente estou estudando sobre o Windows NT , Assembly x64 e RE 🙇 
