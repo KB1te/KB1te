@@ -9,8 +9,8 @@ Olá , bem-vindo ao meu Github 👋
 Jovem programador futuro engenheiro da computação , se Deus quiser ( alguém guarda uma vaga ai pra mim 🙏 ) 
 
 
-<img src="https://media1.tenor.com/images/86031337405fc540c2b56af57206ff6c/tenor.gif?itemid=8556865" align=left> <pre> 
-
+<img src="https://media1.tenor.com/images/86031337405fc540c2b56af57206ff6c/tenor.gif?itemid=8556865" align=left>
+```
 Atualmente estou estudando sobre o Windows NT , Assembly x64 e RE 🙇 
 
 Apenas me interesso por C/C++ , Assembly, Reverse Engineering, IoT e hardware
@@ -21,7 +21,7 @@ Não me interesso por:
 - [x] Rust
 - [x] Programação funcional
 - [x] Python
-</pre>
+```
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) ![](https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_and_wordmark_-_2012_%28dark_blue%29.png) ![](https://yasm.tortall.net/banner.png)
 
