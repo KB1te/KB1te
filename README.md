@@ -25,5 +25,5 @@ Não me interesso por:
 
 ```
 
-
+![](https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif)
 
