@@ -14,7 +14,7 @@ Jovem programador futuro engenheiro da computação , se Deus quiser ( alguém g
 ```
 Atualmente estou estudando sobre o Windows NT , Assembly x64 e RE 🙇 
 
-Apenas me interesso por C/C++ , _Assembly_ , _Reverse Engineering, IoT e hardware_ 
+Apenas me interesso por C/C++ , Assembly, Reverse Engineering, IoT e hardware
 
 Não me interesso por:
 
