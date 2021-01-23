@@ -25,4 +25,4 @@ Não me interesso por:
 
 ```
 
-<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> 
+<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te)](https://github.com/anuraghazra/github-readme-stats)
