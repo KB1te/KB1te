@@ -25,4 +25,4 @@ Não me interesso por:
 
 ```
 
-<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> <img src="https://tenor.com/view/bluescreen-computer-death-gif-8556865">
+<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> <div class="tenor-gif-embed" data-postid="8556865" data-share-method="host" data-width="100%" data-aspect-ratio="1.9047619047619047"><a href="https://tenor.com/view/bluescreen-computer-death-gif-8556865">BSOD Error GIF</a> from <a href="https://tenor.com/search/bsod-gifs">Bsod GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
