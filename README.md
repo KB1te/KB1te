@@ -25,4 +25,4 @@ Não me interesso por:
 
 ```
 
-<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align="center">
+<center> <img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif"> </center>
