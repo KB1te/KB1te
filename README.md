@@ -25,4 +25,4 @@ Não me interesso por:
 
 ```
 
-<center> <img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif"> </center>
+<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> <img src="https://tenor.com/view/bluescreen-computer-death-gif-8556865">
