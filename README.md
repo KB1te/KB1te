@@ -25,4 +25,4 @@ Não me interesso por:
 
 ```
 
-<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> ![](https://media1.tenor.com/images/86031337405fc540c2b56af57206ff6c/tenor.gif?itemid=8556865)
+<img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> 
