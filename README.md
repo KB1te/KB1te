@@ -21,6 +21,6 @@ Não me interesso por:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB1te&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB1te&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 <img src="https://thumbs.gfycat.com/NeatHarmfulKagu-size_restricted.gif" align=left> 
