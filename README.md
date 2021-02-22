@@ -4,21 +4,14 @@
 
 Olá , bem-vindo ao meu Github 👋 
 
-*"Na minha angústia, clamei ao Senhor; clamei ao meu Deus. Do seu templo ele ouviu a minha voz; o meu grito de socorro chegou aos seus ouvidos"*
+*"Os demônios imploraram a Jesus: "Manda-nos para os porcos, para que entremos neles".
+Ele lhes deu permissão, e os espíritos imundos saíram e entraram nos porcos. A manada de cerca de dois mil porcos atirou-se precipício abaixo, em direção ao mar, e nele se afogou."*
 
-Jovem programador futuro engenheiro da computação , se Deus quiser ( alguém guarda uma vaga ai pra mim 🙏 ) 
+Tenho 15 anos e sou iniciante em C++ e computação em geral
 
-Atualmente estou estudando sobre o Windows NT , Assembly x64 e RE 🙇 
+Atualmente estou estudando sobre o Windows NT , Assembly x64 e *Revese Engineering* 🙇 
 
-Apenas me interesso por C/C++ , Assembly, Reverse Engineering, IoT e hardware 💻⚡
-
-Não me interesso por:
-
-- [x] WebApp
-- [x] Rust
-- [x] Programação funcional
-- [x] Python
-
+Futuramente irei me aprofundar em: UEFI , IoT e hardware 💻⚡
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KB1te&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KB1te&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
