@@ -9,7 +9,7 @@ Ele lhes deu permissão, e os espíritos imundos saíram e entraram nos porcos. 
 
 Tenho 15 anos e sou iniciante em C++ e computação em geral
 
-Atualmente estou estudando sobre o Windows NT , Assembly x64 e *Revese Engineering* 🙇 
+Atualmente estou estudando sobre o Windows NT , Assembly x64 e *Reverse Engineering* 🙇 
 
 Futuramente irei me aprofundar em: UEFI , IoT e hardware 💻⚡
 
